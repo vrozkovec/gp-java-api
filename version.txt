@@ -1,0 +1,57 @@
+GP-JAVA-API verze 2.4
+=====================
+- refundace plateb a částečné refundace
+
+GP-JAVA-API verze 2.3
+=====================
+- podpora měny EURO
+
+
+GP-JAVA-API verze 2.1
+=====================
+- vypis pohybu na uctu
+
+GP-JAVA-API verze 2.0
+=====================
+Přechod na nove WS rozhraní
+- nove WS, nove funkcionality (predautorizace plateb, refundace plateb, opakovane platby)
+- pro bezchybnou funkci doporucujeme prejit zcela na nove API
+- principialni kompatibilita s predchozimi, ale pouzity prepracovane komunikacni elementy
+vcetne jejich podpisu.
+
+
+
+GP-JAVA-API verze 1.6
+=====================
+ - Kódy zemí nastaveny dle standardu ISO_3166-1_alpha-3
+
+
+GP-JAVA-API verze 1.5
+=====================
+Nove funkcionality
+- zmena zpracovani stavu platby - zpracovani notifikace o zmene stavu platby
+- + SimplePayment.notify()  
+
+
+GP-JAVA-API verze 1.4
+=====================
+Nove funkcionality
+- Predavani zakaznickych dat spolecne s vytvarenim platby 
+
+
+GP-JAVA-API verze 1.3
+=====================
+Nove funkcionality
+- Doplneni funkcionality pro nove platebni metody MojePlatba, ePlatby, MPenize, bankovni prevod
+- Priprava vzoroveho uziti API - cz.gopay.example 
+
+
+GP-JAVA-API verze 1.2
+=====================
+Nove funkcionality
+- Pridani moznosti specifikovat mnoziny platebnich metod pri zakladani platby
+
+
+Funkcionality pridane ve starsich verzich
+verze 1.1
+- Vytvoření GoPay API pro Javu
