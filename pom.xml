@@ -74,14 +74,4 @@
 		</dependency>
 
 	</dependencies>
-	
-	<repositories>
-<!--
-			Kvuli artefaktu javax.xml.saaj-api
--->
-    		<repository>
-				<id>java.net-repo</id>
-				<url>http://download.java.net/maven/2</url>
-			</repository>
-    </repositories>
 </project>
