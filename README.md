@@ -1,4 +1,4 @@
 gp-java-api
 ===========
 
-GoPay.cz Java Api
+GoPay.cz Java Api v. 2.4
